@@ -1,0 +1,28 @@
+# Security
+.env
+
+# Python & Django
+*.pyc
+__pycache__/
+
+
+db.sqlite3
+venv/
+.DS_Store
+*.log
+local_settings.py
+db.sqlite3-journal
+
+# Static files (Generated automatically)
+staticfiles/
+
+
+*.manifest
+*.spec
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
